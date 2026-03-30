@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwvWyq+kL9I=",
+  "success": true,
+  "projectFilePath": "/workspaces/sushant/ReferenceDataService/ReferenceDataService.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.hosting.abstractions/7.0.0/microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog/3.1.0/serilog.3.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.aspnetcore/7.0.0/serilog.aspnetcore.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.enrichers.environment/2.3.0/serilog.enrichers.environment.2.3.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.enrichers.thread/3.1.0/serilog.enrichers.thread.3.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.extensions.hosting/7.0.0/serilog.extensions.hosting.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.extensions.logging/7.0.0/serilog.extensions.logging.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.formatting.compact/2.0.0/serilog.formatting.compact.2.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.settings.configuration/7.0.0/serilog.settings.configuration.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.sinks.console/4.1.0/serilog.sinks.console.4.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.sinks.debug/2.0.0/serilog.sinks.debug.2.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/serilog.sinks.file/5.0.0/serilog.sinks.file.5.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.Extensions.Caching.Memory' 8.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-qj66-m88j-hmgj",
+      "projectPath": "/workspaces/sushant/ReferenceDataService/ReferenceDataService.csproj",
+      "warningLevel": 1,
+      "filePath": "/workspaces/sushant/ReferenceDataService/ReferenceDataService.csproj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
